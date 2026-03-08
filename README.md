@@ -1,6 +1,6 @@
 # Privacy Policy for GoNow
 
-**Last Updated: March 7, 2026**
+**Last Updated: March 8, 2026**
 
 ## Introduction
 
