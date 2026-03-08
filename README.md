@@ -1,16 +1,16 @@
-# Privacy Policy for OnTheGo
+# Privacy Policy for GoNow
 
 **Last Updated: March 7, 2026**
 
 ## Introduction
 
-OnTheGo ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+GoNow ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
 ## Information We Collect
 
 ### Information We DO NOT Collect
 
-OnTheGo does not collect, store, or transmit any personal information to external servers. We do not:
+GoNow does not collect, store, or transmit any personal information to external servers. We do not:
 
 - Collect personal identification information
 - Track your location
@@ -35,7 +35,7 @@ This information:
 
 ## Data Sources
 
-OnTheGo uses publicly available GO Transit schedule data provided under the **Open Government Licence - Canada (OGL-Canada)**. This data is accessed in real-time from GO Transit's public API and is not stored permanently by the app.
+GoNow uses publicly available GO Transit schedule data provided under the **Open Government Licence - Canada (OGL-Canada)**. This data is accessed in real-time from GO Transit's public API and is not stored permanently by the app.
 
 ### Open Government Licence - Canada
 
@@ -50,7 +50,7 @@ We acknowledge that:
 
 ## Third-Party Services
 
-OnTheGo connects to the following services:
+GoNow connects to the following services:
 
 1. **GO Transit API**: To fetch real-time train schedules and information
    - No personal data is sent to these services
@@ -64,7 +64,7 @@ The app does not use:
 
 ## Children's Privacy
 
-OnTheGo does not knowingly collect any information from children under the age of 13. The app is designed to be safe for users of all ages.
+GoNow does not knowingly collect any information from children under the age of 13. The app is designed to be safe for users of all ages.
 
 ## Data Security
 
@@ -84,7 +84,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Disclaimer
 
-OnTheGo is an independent application and is not affiliated with, endorsed by, or officially connected with GO Transit, Metrolinx, or the Government of Ontario. All train schedule data is provided "as is" from public sources.
+GoNow is an independent application and is not affiliated with, endorsed by, or officially connected with GO Transit, Metrolinx, or the Government of Ontario. All train schedule data is provided "as is" from public sources.
 
 The app provides information for convenience only. We are not responsible for:
 - Accuracy of train schedules
@@ -101,7 +101,7 @@ If you have any questions about this Privacy Policy or the app's data practices,
 
 ## Consent
 
-By using OnTheGo, you consent to this Privacy Policy and agree to its terms.
+By using GoNow, you consent to this Privacy Policy and agree to its terms.
 
 ---
 
