@@ -97,7 +97,7 @@ Always verify critical travel information with official GO Transit sources.
 
 If you have any questions about this Privacy Policy or the app's data practices, please contact us at:
 
-**Email**: [jaspinders69@gmail.com]
+**Email**: [gonowsupport@gmail.com]
 
 ## Consent
 
